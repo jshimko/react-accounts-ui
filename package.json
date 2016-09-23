@@ -1,0 +1,23 @@
+{
+  "name": "react-accounts-ui",
+  "description": "React components for Meteor Accounts UI",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/studiointeract/accounts-ui.git"
+  },
+  "keywords": [
+    "react",
+    "meteor"
+  ],
+  "author": "jshimko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jshimko/react-accounts-ui/issues"
+  },
+  "homepage": "https://github.com/jshimko/react-accounts-ui",
+  "dependencies": {
+    "react": "^15.3.1",
+    "react-dom": "^15.3.1",
+    "tracker-component": "^1.3.21"
+  }
+}
